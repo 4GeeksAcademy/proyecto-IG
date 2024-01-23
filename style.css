@@ -1,0 +1,77 @@
+html {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+ }
+ 
+ .post {
+    background-color: white;
+    height: 800px;
+    width: 500px;
+ 
+ }
+ 
+ .img-html {
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 15px;
+   
+ }
+ 
+ .img-puntos {
+    height: 40px;
+    width: 40px;
+    margin-left: 220px;
+    margin-top: 15px;
+   
+ }
+ 
+ .autor {
+    line-height: 1px;
+    margin-top: 15px;
+      
+ }
+ 
+ .post-header {
+    display: flex;
+    justify-content: space-between;
+    
+ }
+ 
+ .post-imagen{
+    display: flex;
+    justify-content: center;
+   
+    
+ }
+ .post-imagen-1 {
+    height: auto;
+    width: 100%;
+ }
+ .post-icons {
+    display: flex;
+    justify-content: space-between;
+    padding: 3%;
+   
+ }
+ 
+ .save {
+    margin-left: auto;
+ 
+ }
+ 
+ .post-icons .like,
+ .post-icons .coment,
+ .post-icons .share {
+    margin-right: 10px;
+ }
+ 
+ .text{
+    margin-left: 10px; 
+    font-size: larger;
+    padding: 5px;
+ }
+ 
+ 

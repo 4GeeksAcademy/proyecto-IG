@@ -66,12 +66,15 @@ html {
  .post-icons .coment,
  .post-icons .share {
     margin-right: 10px;
+   
  }
  
- .text{
+ .text {
     margin-left: 10px; 
     font-size: larger;
     padding: 5px;
  }
- 
+ span {
+         
+ }
  
